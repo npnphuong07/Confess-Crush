@@ -4,10 +4,10 @@ const CONFIG = {
     introDesc: `Bạn oiii
     Đông đến cận kề  
     Bao nhiêu lớp áo
-    Không bằng love tớ  `,
+    Không bằng love tớ `,
     btnIntro: '^^HiHi^^',
     title: 'Bạn cho mình làm quen được hông 🥰',
-    desc: 'Chịu honggg ',
+    desc: 'Chịu honggg',
     btnYes: 'Okie nè <33',
     btnNo: 'Không nha :3',
     question: 'Bạn đồng ý gòi đó nhaaaa <3',
