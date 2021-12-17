@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Bạn oiii
     Đông đến cận kề  
     Bao nhiêu lớp áo
-    Không bằng love tớ `,
+    Không bằng love tớ`,
     btnIntro: '^^HiHi^^',
     title: 'Bạn cho mình làm quen được hông 🥰',
     desc: 'Chịu honggg',
